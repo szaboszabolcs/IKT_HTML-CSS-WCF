@@ -1,0 +1,101 @@
+table, tr, td{
+    border: 1px solid;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+td {
+  color: white;
+  font-size: 15px;
+}
+
+
+table { border: thick solid }
+table {color: black}
+thead { border: 12pt double(1,12,1) }
+thead {color: black}
+thead { background: cyan }
+tr.odd { background: yellow }
+tr.even { background: cyan }
+
+
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: black;
+
+}
+
+
+body {
+    background-image: url(./img/hatter.jpg);
+}
+
+body {margin: 0;}
+
+ul.topnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul.topnav li a:hover:not(.active) {background-color: #111;}
+
+ul.topnav li a.active {background-color: #04AA6D;}
+
+ul.topnav li.right {float: right;}
+
+@media screen and (max-width: 600px) {
+  ul.topnav li.right, 
+  ul.topnav li {float: none;}
+}
+
+h3{
+    text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-stretch: condensed;
+    text-overflow: clip;
+}
+
+/* Use a media query to add a break point at 800px: */
+@media screen and (max-width: 800px) {
+    .left, .main, .right {
+      width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+    }
+  }
+
+form {
+    width: 10%;
+    max-width: 5rem;
+    margin: 10px;
+}
+
+input,
+button {
+  font-family: inherit;
+  font-size: inherit;
+  padding: 5px 5px;
+  margin: 10px 10px;
+  text-align:justify;
+  float:none; 
+  
+}

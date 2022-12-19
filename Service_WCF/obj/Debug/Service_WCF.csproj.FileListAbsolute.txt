@@ -1,0 +1,150 @@
+C:\Users\szabo\OneDrive\Asztali gép\Service_WCF\bin\Service_WCF.dll.config
+C:\Users\szabo\OneDrive\Asztali gép\Service_WCF\bin\Service_WCF.dll
+C:\Users\szabo\OneDrive\Asztali gép\Service_WCF\bin\Service_WCF.pdb
+C:\Users\szabo\OneDrive\Asztali gép\Service_WCF\obj\Debug\Service_WCF.csproj.AssemblyReference.cache
+C:\Users\szabo\OneDrive\Asztali gép\Service_WCF\obj\Debug\Service_WCF.csproj.CoreCompileInputs.cache
+C:\Users\szabo\OneDrive\Asztali gép\Service_WCF\obj\Debug\Service_WCF.dll
+C:\Users\szabo\OneDrive\Asztali gép\Service_WCF\obj\Debug\Service_WCF.pdb
+C:\Users\szabo\OneDrive\Asztali gép\Service_WCF\bin\BouncyCastle.Crypto.dll
+C:\Users\szabo\OneDrive\Asztali gép\Service_WCF\bin\Google.Protobuf.dll
+C:\Users\szabo\OneDrive\Asztali gép\Service_WCF\bin\K4os.Compression.LZ4.dll
+C:\Users\szabo\OneDrive\Asztali gép\Service_WCF\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\szabo\OneDrive\Asztali gép\Service_WCF\bin\K4os.Hash.xxHash.dll
+C:\Users\szabo\OneDrive\Asztali gép\Service_WCF\bin\MySql.Data.dll
+C:\Users\szabo\OneDrive\Asztali gép\Service_WCF\bin\System.Buffers.dll
+C:\Users\szabo\OneDrive\Asztali gép\Service_WCF\bin\System.Memory.dll
+C:\Users\szabo\OneDrive\Asztali gép\Service_WCF\bin\System.Numerics.Vectors.dll
+C:\Users\szabo\OneDrive\Asztali gép\Service_WCF\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\szabo\OneDrive\Asztali gép\Service_WCF\bin\ZstdNet.dll
+C:\Users\szabo\OneDrive\Asztali gép\Service_WCF\bin\BouncyCastle.Crypto.xml
+C:\Users\szabo\OneDrive\Asztali gép\Service_WCF\bin\Google.Protobuf.pdb
+C:\Users\szabo\OneDrive\Asztali gép\Service_WCF\bin\Google.Protobuf.xml
+C:\Users\szabo\OneDrive\Asztali gép\Service_WCF\bin\K4os.Compression.LZ4.xml
+C:\Users\szabo\OneDrive\Asztali gép\Service_WCF\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\szabo\OneDrive\Asztali gép\Service_WCF\bin\K4os.Hash.xxHash.xml
+C:\Users\szabo\OneDrive\Asztali gép\Service_WCF\bin\MySql.Data.xml
+C:\Users\szabo\OneDrive\Asztali gép\Service_WCF\bin\System.Buffers.xml
+C:\Users\szabo\OneDrive\Asztali gép\Service_WCF\bin\System.Memory.xml
+C:\Users\szabo\OneDrive\Asztali gép\Service_WCF\bin\System.Numerics.Vectors.xml
+C:\Users\szabo\OneDrive\Asztali gép\Service_WCF\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\szabo\OneDrive\Asztali gép\Service_WCF\obj\Debug\Service_WCF.csproj.CopyComplete
+C:\Users\Szabó Szabolcs\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\Service_WCF.dll.config
+C:\Users\Szabó Szabolcs\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\Service_WCF.dll
+C:\Users\Szabó Szabolcs\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\Service_WCF.pdb
+C:\Users\Szabó Szabolcs\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\BouncyCastle.Crypto.dll
+C:\Users\Szabó Szabolcs\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\Google.Protobuf.dll
+C:\Users\Szabó Szabolcs\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\K4os.Compression.LZ4.dll
+C:\Users\Szabó Szabolcs\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Szabó Szabolcs\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\K4os.Hash.xxHash.dll
+C:\Users\Szabó Szabolcs\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\MySql.Data.dll
+C:\Users\Szabó Szabolcs\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\System.Buffers.dll
+C:\Users\Szabó Szabolcs\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\System.Memory.dll
+C:\Users\Szabó Szabolcs\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\System.Numerics.Vectors.dll
+C:\Users\Szabó Szabolcs\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Szabó Szabolcs\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\ZstdNet.dll
+C:\Users\Szabó Szabolcs\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\BouncyCastle.Crypto.xml
+C:\Users\Szabó Szabolcs\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\Google.Protobuf.pdb
+C:\Users\Szabó Szabolcs\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\Google.Protobuf.xml
+C:\Users\Szabó Szabolcs\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\K4os.Compression.LZ4.xml
+C:\Users\Szabó Szabolcs\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Szabó Szabolcs\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\K4os.Hash.xxHash.xml
+C:\Users\Szabó Szabolcs\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\MySql.Data.xml
+C:\Users\Szabó Szabolcs\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\System.Buffers.xml
+C:\Users\Szabó Szabolcs\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\System.Memory.xml
+C:\Users\Szabó Szabolcs\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\System.Numerics.Vectors.xml
+C:\Users\Szabó Szabolcs\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Szabó Szabolcs\Git\IKT_Szabo_Szabolcs\Service_WCF\obj\Debug\Service_WCF.csproj.AssemblyReference.cache
+C:\Users\Szabó Szabolcs\Git\IKT_Szabo_Szabolcs\Service_WCF\obj\Debug\Service_WCF.csproj.CoreCompileInputs.cache
+C:\Users\Szabó Szabolcs\Git\IKT_Szabo_Szabolcs\Service_WCF\obj\Debug\Service_WCF.csproj.CopyComplete
+C:\Users\Szabó Szabolcs\Git\IKT_Szabo_Szabolcs\Service_WCF\obj\Debug\Service_WCF.dll
+C:\Users\Szabó Szabolcs\Git\IKT_Szabo_Szabolcs\Service_WCF\obj\Debug\Service_WCF.pdb
+C:\Users\szabo\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\Service_WCF.dll.config
+C:\Users\szabo\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\Service_WCF.dll
+C:\Users\szabo\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\Service_WCF.pdb
+C:\Users\szabo\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\BouncyCastle.Crypto.dll
+C:\Users\szabo\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\Google.Protobuf.dll
+C:\Users\szabo\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\K4os.Compression.LZ4.dll
+C:\Users\szabo\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\szabo\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\K4os.Hash.xxHash.dll
+C:\Users\szabo\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\MySql.Data.dll
+C:\Users\szabo\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\System.Buffers.dll
+C:\Users\szabo\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\System.Memory.dll
+C:\Users\szabo\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\System.Numerics.Vectors.dll
+C:\Users\szabo\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\szabo\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\ZstdNet.dll
+C:\Users\szabo\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\BouncyCastle.Crypto.xml
+C:\Users\szabo\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\Google.Protobuf.pdb
+C:\Users\szabo\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\Google.Protobuf.xml
+C:\Users\szabo\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\K4os.Compression.LZ4.xml
+C:\Users\szabo\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\szabo\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\K4os.Hash.xxHash.xml
+C:\Users\szabo\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\MySql.Data.xml
+C:\Users\szabo\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\System.Buffers.xml
+C:\Users\szabo\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\System.Memory.xml
+C:\Users\szabo\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\System.Numerics.Vectors.xml
+C:\Users\szabo\Git\IKT_Szabo_Szabolcs\Service_WCF\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\szabo\Git\IKT_Szabo_Szabolcs\Service_WCF\obj\Debug\Service_WCF.csproj.AssemblyReference.cache
+C:\Users\szabo\Git\IKT_Szabo_Szabolcs\Service_WCF\obj\Debug\Service_WCF.csproj.CoreCompileInputs.cache
+C:\Users\szabo\Git\IKT_Szabo_Szabolcs\Service_WCF\obj\Debug\Service_WCF.csproj.CopyComplete
+C:\Users\szabo\Git\IKT_Szabo_Szabolcs\Service_WCF\obj\Debug\Service_WCF.dll
+C:\Users\szabo\Git\IKT_Szabo_Szabolcs\Service_WCF\obj\Debug\Service_WCF.pdb
+C:\Users\szabo\OneDrive\Asztali gép\IKT_Szabo_Szabolcs-dev1\Service_WCF\bin\Service_WCF.dll.config
+C:\Users\szabo\OneDrive\Asztali gép\IKT_Szabo_Szabolcs-dev1\Service_WCF\bin\Service_WCF.dll
+C:\Users\szabo\OneDrive\Asztali gép\IKT_Szabo_Szabolcs-dev1\Service_WCF\bin\Service_WCF.pdb
+C:\Users\szabo\OneDrive\Asztali gép\IKT_Szabo_Szabolcs-dev1\Service_WCF\bin\BouncyCastle.Crypto.dll
+C:\Users\szabo\OneDrive\Asztali gép\IKT_Szabo_Szabolcs-dev1\Service_WCF\bin\Google.Protobuf.dll
+C:\Users\szabo\OneDrive\Asztali gép\IKT_Szabo_Szabolcs-dev1\Service_WCF\bin\K4os.Compression.LZ4.dll
+C:\Users\szabo\OneDrive\Asztali gép\IKT_Szabo_Szabolcs-dev1\Service_WCF\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\szabo\OneDrive\Asztali gép\IKT_Szabo_Szabolcs-dev1\Service_WCF\bin\K4os.Hash.xxHash.dll
+C:\Users\szabo\OneDrive\Asztali gép\IKT_Szabo_Szabolcs-dev1\Service_WCF\bin\MySql.Data.dll
+C:\Users\szabo\OneDrive\Asztali gép\IKT_Szabo_Szabolcs-dev1\Service_WCF\bin\System.Buffers.dll
+C:\Users\szabo\OneDrive\Asztali gép\IKT_Szabo_Szabolcs-dev1\Service_WCF\bin\System.Memory.dll
+C:\Users\szabo\OneDrive\Asztali gép\IKT_Szabo_Szabolcs-dev1\Service_WCF\bin\System.Numerics.Vectors.dll
+C:\Users\szabo\OneDrive\Asztali gép\IKT_Szabo_Szabolcs-dev1\Service_WCF\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\szabo\OneDrive\Asztali gép\IKT_Szabo_Szabolcs-dev1\Service_WCF\bin\ZstdNet.dll
+C:\Users\szabo\OneDrive\Asztali gép\IKT_Szabo_Szabolcs-dev1\Service_WCF\bin\BouncyCastle.Crypto.xml
+C:\Users\szabo\OneDrive\Asztali gép\IKT_Szabo_Szabolcs-dev1\Service_WCF\bin\Google.Protobuf.pdb
+C:\Users\szabo\OneDrive\Asztali gép\IKT_Szabo_Szabolcs-dev1\Service_WCF\bin\Google.Protobuf.xml
+C:\Users\szabo\OneDrive\Asztali gép\IKT_Szabo_Szabolcs-dev1\Service_WCF\bin\K4os.Compression.LZ4.xml
+C:\Users\szabo\OneDrive\Asztali gép\IKT_Szabo_Szabolcs-dev1\Service_WCF\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\szabo\OneDrive\Asztali gép\IKT_Szabo_Szabolcs-dev1\Service_WCF\bin\K4os.Hash.xxHash.xml
+C:\Users\szabo\OneDrive\Asztali gép\IKT_Szabo_Szabolcs-dev1\Service_WCF\bin\MySql.Data.xml
+C:\Users\szabo\OneDrive\Asztali gép\IKT_Szabo_Szabolcs-dev1\Service_WCF\bin\System.Buffers.xml
+C:\Users\szabo\OneDrive\Asztali gép\IKT_Szabo_Szabolcs-dev1\Service_WCF\bin\System.Memory.xml
+C:\Users\szabo\OneDrive\Asztali gép\IKT_Szabo_Szabolcs-dev1\Service_WCF\bin\System.Numerics.Vectors.xml
+C:\Users\szabo\OneDrive\Asztali gép\IKT_Szabo_Szabolcs-dev1\Service_WCF\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\szabo\OneDrive\Asztali gép\IKT_Szabo_Szabolcs-dev1\Service_WCF\obj\Debug\Service_WCF.csproj.AssemblyReference.cache
+C:\Users\szabo\OneDrive\Asztali gép\IKT_Szabo_Szabolcs-dev1\Service_WCF\obj\Debug\Service_WCF.csproj.CoreCompileInputs.cache
+C:\Users\szabo\OneDrive\Asztali gép\IKT_Szabo_Szabolcs-dev1\Service_WCF\obj\Debug\Service_WCF.csproj.CopyComplete
+C:\Users\szabo\OneDrive\Asztali gép\IKT_Szabo_Szabolcs-dev1\Service_WCF\obj\Debug\Service_WCF.dll
+C:\Users\szabo\OneDrive\Asztali gép\IKT_Szabo_Szabolcs-dev1\Service_WCF\obj\Debug\Service_WCF.pdb
+C:\Users\Szabó Szabolcs\Desktop\Service_WCF\bin\Service_WCF.dll.config
+C:\Users\Szabó Szabolcs\Desktop\Service_WCF\bin\Service_WCF.dll
+C:\Users\Szabó Szabolcs\Desktop\Service_WCF\bin\Service_WCF.pdb
+C:\Users\Szabó Szabolcs\Desktop\Service_WCF\bin\BouncyCastle.Crypto.dll
+C:\Users\Szabó Szabolcs\Desktop\Service_WCF\bin\Google.Protobuf.dll
+C:\Users\Szabó Szabolcs\Desktop\Service_WCF\bin\K4os.Compression.LZ4.dll
+C:\Users\Szabó Szabolcs\Desktop\Service_WCF\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Szabó Szabolcs\Desktop\Service_WCF\bin\K4os.Hash.xxHash.dll
+C:\Users\Szabó Szabolcs\Desktop\Service_WCF\bin\MySql.Data.dll
+C:\Users\Szabó Szabolcs\Desktop\Service_WCF\bin\System.Buffers.dll
+C:\Users\Szabó Szabolcs\Desktop\Service_WCF\bin\System.Memory.dll
+C:\Users\Szabó Szabolcs\Desktop\Service_WCF\bin\System.Numerics.Vectors.dll
+C:\Users\Szabó Szabolcs\Desktop\Service_WCF\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Szabó Szabolcs\Desktop\Service_WCF\bin\ZstdNet.dll
+C:\Users\Szabó Szabolcs\Desktop\Service_WCF\bin\BouncyCastle.Crypto.xml
+C:\Users\Szabó Szabolcs\Desktop\Service_WCF\bin\Google.Protobuf.pdb
+C:\Users\Szabó Szabolcs\Desktop\Service_WCF\bin\Google.Protobuf.xml
+C:\Users\Szabó Szabolcs\Desktop\Service_WCF\bin\K4os.Compression.LZ4.xml
+C:\Users\Szabó Szabolcs\Desktop\Service_WCF\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Szabó Szabolcs\Desktop\Service_WCF\bin\K4os.Hash.xxHash.xml
+C:\Users\Szabó Szabolcs\Desktop\Service_WCF\bin\MySql.Data.xml
+C:\Users\Szabó Szabolcs\Desktop\Service_WCF\bin\System.Buffers.xml
+C:\Users\Szabó Szabolcs\Desktop\Service_WCF\bin\System.Memory.xml
+C:\Users\Szabó Szabolcs\Desktop\Service_WCF\bin\System.Numerics.Vectors.xml
+C:\Users\Szabó Szabolcs\Desktop\Service_WCF\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Szabó Szabolcs\Desktop\Service_WCF\obj\Debug\Service_WCF.csproj.AssemblyReference.cache
+C:\Users\Szabó Szabolcs\Desktop\Service_WCF\obj\Debug\Service_WCF.csproj.CoreCompileInputs.cache
+C:\Users\Szabó Szabolcs\Desktop\Service_WCF\obj\Debug\Service_WCF.csproj.CopyComplete
+C:\Users\Szabó Szabolcs\Desktop\Service_WCF\obj\Debug\Service_WCF.dll
+C:\Users\Szabó Szabolcs\Desktop\Service_WCF\obj\Debug\Service_WCF.pdb

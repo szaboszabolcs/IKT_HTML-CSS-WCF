@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <link rel="stylesheet" href="index.css">
+    <link rel="icon" type="image/x-icon" href="./img/login.png">
+    <title>Login űrlap</title>
+</head>
+<body>
+    <script src="./login.js"></script>
+    
+
+
+    <div class="hero">
+<div class="form-box">
+    <div class="button-box">
+        <div id="btn"></div>
+        <button type="button" class="toggle-btn" onclick="login()">Log In</button>
+        <button type="button" class="toggle-btn" onclick="register()">Register</button>
+    </div>
+    <div class="social-icons">
+        <img src="./img/fb.png">
+        <img src="./img/tw.png">
+        <img src="./img/gp.png">
+    </div>
+        
+    </body>
+    <form id="login" class="input-group">
+        <input type="text" class="input-field" id="Username" placeholder="Username" required>
+        <input type="text" class="input-field" id="Password" placeholder="Password" required><br>
+        <button type="submit" id="loginbtn" onclick=handleClick() class="submit-btn">Login</button>
+    </form>
+    <form id="register" class="input-group">
+        <input type="text" class="input-field" id="Username" placeholder="Username" required>
+        <input type="email" class="input-field" id="Email" placeholder="Email" required>
+        <input type="text" class="input-field" id="Password" placeholder="Password" required>
+        <input type="text" class="input-field" id="FullName" placeholder="FullName" required>
+        <input type="checkbox" class="chech-box"><span>I agree to the terms & conditions</span>
+        <button type="submit" class="submit-btn" onclick=handleRegister()>Register</button>
+    </form>
+</div>
+
+
+    </div>
+
+    <script>
+
+    var x = document.getElementById("login");
+    var y = document.getElementById("register");
+    var z = document.getElementById("btn");
+    
+    function register() {
+        x.style.left = "-400px";
+        y.style.left = "50px";
+        z.style.left = "110px";
+    }
+
+    function login() {
+        x.style.left = "50px";
+        y.style.left = "450px";
+        z.style.left = "0";
+    }
+
+    </script>
+
+ 
+</body>
+</html>   
